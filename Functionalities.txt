@@ -1,0 +1,47 @@
+Home page: Grace/Moly
+- overview
+- 
+
+
+
+
+Quiz: Mathew
+- structured questions to figure out how much internet usage a person has
+
+
+
+
+Map: Moly / Grace
+- continents 
+- show usage based on countries
+- button showing more infor based on which country is selected
+
+
+
+
+
+Get involved: Pedro
+- links/ information on what you can do
+- data on what to do to work on problems
+
+
+
+
+
+
+
+References: All of us do together
+- general links/ more resources
+
+
+Main colour theme:
+- Blue colour way
+
+
+
+
+Test out code in figma coding software
+
+
+
+
